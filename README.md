@@ -2,7 +2,7 @@ Publishing-with-Github
 ======================
 Dies hier ist ein Test für das erste Arbeiten mit Github.
 Momentan versuche ich eine Html Präsentation mit deck.js zu erstellen.
-Alles ist noch sehr Experimentell bzw. dilletantisch umgesetzt.
+Alles ist noch sehr experimentell bzw. dilletantisch umgesetzt.
 
 
 Licenses
