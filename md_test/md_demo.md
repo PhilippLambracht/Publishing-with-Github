@@ -97,3 +97,6 @@ Content Cell  | Content Cell
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
+
+Beispiele entnommen von: [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown "Das hier sollte zu sehen sein")
+
