@@ -97,8 +97,3 @@ Content Cell  | Content Cell
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> are supported 
-- [x] list syntax is required (any unordered or ordered list supported) 
-- [x] this is a complete item 
-- [ ] this is an incomplete item
