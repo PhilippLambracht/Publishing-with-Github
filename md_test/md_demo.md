@@ -28,6 +28,7 @@ function test() {
 }
 ```
 
+Syntax Highlighting
 ```java
  System.out.println("Hallo Welt");
 ```
