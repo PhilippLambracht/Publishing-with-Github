@@ -33,3 +33,12 @@ Syntax Highlighting
 ```java
  System.out.println("Hallo Welt");
 ```
+
+Tabellen
+
+\First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+
