@@ -19,3 +19,11 @@ Speziell bei Github
 kein_kursiv
 
 Autolinking http://philipplambracht.github.io/Publishing-with-Github/
+
+
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
