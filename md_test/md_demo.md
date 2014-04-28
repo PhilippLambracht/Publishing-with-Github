@@ -18,6 +18,8 @@ Speziell bei Github
 
 kein_kursiv
 
+~~Durchgestrichen~~
+
 Autolinking http://philipplambracht.github.io/Publishing-with-Github/
 
 
