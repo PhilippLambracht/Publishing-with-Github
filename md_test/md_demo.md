@@ -29,5 +29,5 @@ function test() {
 ```
 
 ```java
-sysout
+ System.out.println("Hallo Welt");
 ```
