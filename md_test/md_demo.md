@@ -66,6 +66,7 @@ Content Cell  | Content Cell
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+
 ```
 | Name | Description          |
 | ------------- | ----------- |
@@ -77,6 +78,7 @@ Content Cell  | Content Cell
 | Help      | Display the help window.|
 | Close     | Closes a window     |
 
+
 ```
 | Name | Description          |
 | ------------- | ----------- |
@@ -87,6 +89,7 @@ Content Cell  | Content Cell
 | ------------- | ----------- |
 | Help      | ~~Display the~~ help window.|
 | Close     | _Closes_ a window     |
+
 
 ```
 | Left-Aligned  | Center Aligned  | Right Aligned |
