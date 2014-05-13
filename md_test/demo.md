@@ -22,3 +22,7 @@ System.out.println("foo");
 
 ```
 
+
+First Header | Second Header
+-------------|-------------
+Zeile eins   |Zeile zwei
