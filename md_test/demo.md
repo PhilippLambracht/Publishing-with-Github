@@ -15,3 +15,10 @@ function test (){
 
 }
 ```
+
+
+```java
+System.out.println("foo");
+
+```
+
